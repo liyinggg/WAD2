@@ -6,3 +6,12 @@
 body {
   padding-top: 56px;
 }
+
+#navbar{
+  background-color: black;
+}
+
+
+.header-logo{
+  background-color: black;
+}
